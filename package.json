@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Alexg2195/simple-dev-example#readme",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "mongoose": "^4.7.2",
-    "morgan": "^1.7.0"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2"
   }
 }
